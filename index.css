@@ -8,6 +8,9 @@ html {
   line-height: 2rem;
   /* background-color: blueviolet; */
 }
+body{
+  padding-bottom: 3rem;
+}
 a {
   display: block;
   text-decoration: none;
